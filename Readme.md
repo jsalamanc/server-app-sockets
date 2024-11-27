@@ -16,7 +16,7 @@ Primero, necesitarás clonar el repositorio del proyecto a tu máquina local. Pu
 
 ```bash
 git clone https://link-to-your-repository.com](https://github.com/jsalamanc/server-app-sockets.git
-cd nombre-del-proyecto
+cd server-app-sockets
 ```
 
 Luego instalamos dependencias:
