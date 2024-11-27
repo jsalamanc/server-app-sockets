@@ -15,7 +15,7 @@ Para configurar el proyecto y ejecutarlo localmente, sigue estos pasos:
 Primero, necesitarás clonar el repositorio del proyecto a tu máquina local. Puedes hacerlo con el siguiente comando:
 
 ```bash
-git clone https://link-to-your-repository.com
+git clone https://link-to-your-repository.com](https://github.com/jsalamanc/server-app-sockets.git
 cd nombre-del-proyecto
 ```
 
